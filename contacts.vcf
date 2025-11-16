@@ -1,0 +1,20 @@
+BEGIN:VCARD
+VERSION:3.0
+FN:قسم المبيعات
+TEL;TYPE=CELL:+963960622256
+EMAIL:ali.ahmad@example.com
+END:VCARD
+
+BEGIN:VCARD
+VERSION:3.0
+FN:قسم أنظمة المراقبة
+TEL;TYPE=CELL:+963960622279
+EMAIL:sara.khaled@example.com
+END:VCARD
+
+BEGIN:VCARD
+VERSION:3.0
+FN:قسم هيتاشي
+TEL;TYPE=CELL:+963333333333
+EMAIL:omar.youssef@example.com
+END:VCARD
